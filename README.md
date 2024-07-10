@@ -1,4 +1,5 @@
--- im noob
+c#
+python
 
 <!---
 turtledshell/turtledshell is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
